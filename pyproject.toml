@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
   "openai>=2.26.0",
+  "openai-agents",
   "python-dotenv>=1.1.0",
   "requests>=2.32.0",
   "jupyter>=1.1.1",
